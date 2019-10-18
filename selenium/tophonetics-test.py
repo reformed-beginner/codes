@@ -12,7 +12,7 @@
 from selenium import webdriver
 import time
 
-browser = webdriver.Chrome('C:/Users/xb.teng.CORP/Downloads/chromedriver_win32/chromedriver.exe')
+browser = webdriver.Chrome('xxx/chromedriver_win32/chromedriver.exe')
 browser.get('https://tophonetics.com/')
 #time.sleep(10)
 
